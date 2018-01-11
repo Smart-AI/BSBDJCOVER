@@ -1,0 +1,6 @@
+framework module Pods_BSBDJCOVERTests {
+  umbrella header "Pods-BSBDJCOVERTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

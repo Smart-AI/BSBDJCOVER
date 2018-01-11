@@ -1,0 +1,6 @@
+framework module Pods_BSBDJCOVERUITests {
+  umbrella header "Pods-BSBDJCOVERUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
